@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668109610 source:c:\users\saade\desktop\fastsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
